@@ -25,8 +25,8 @@ Collaboration between offensive and defensive security specialists is key during
 In the eye of the storm, attackers and defenders should combine forces to protect against the real enemy that is sure to come. Combined, they can optimize both the speed and the coverage of defense, and look cool while doing it. Bring your attackers and defenders together now, because the next storm is always coming. 
 
 
-> I want to read your mind
-To know just what I've got
- in this new thing 
-I've found
-\- Bruce Springsteen, Brilliant Disguise
+> I want to read your mind<br>
+ To know just what I've got<br>
+ in this new thing<br>
+ I've found<br>
+  \- Bruce Springsteen, Brilliant Disguise
