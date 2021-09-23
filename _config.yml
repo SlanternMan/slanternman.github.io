@@ -53,8 +53,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Max Groot"
   bio    : " Enthousiast about information security & ethics. Fan of technical deepdives and challenging conversations. Work @ Fox-IT, thoughts & opinions are my own. ."
   links:
     - label: "Twitter"
