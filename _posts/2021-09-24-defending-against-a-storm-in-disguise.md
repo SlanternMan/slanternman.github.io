@@ -2,6 +2,7 @@
 title: "Defending against a storm in disguise"
 date: 2021-09-24T10:00:00-00
 share: false
+classes: wide
 tags:
   - story
 ---
