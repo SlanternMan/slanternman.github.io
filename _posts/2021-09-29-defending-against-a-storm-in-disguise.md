@@ -4,6 +4,8 @@ date: 2021-09-29T10:00:00-00
 share: false
 tags:
   - story
+header:
+  teaser: "/assets/img/defending-thumbnail.png"
 ---
 
 Every once in a while, a security issue comes along that requires urgent attention. At those times, everything comes together in a perfect storm: a large attack surface, ease of exploitation, a lack of a ‘quick fix.’ These are the kinds of vulnerabilities where you can feel your stomach drop while reading the security advisory. The ones where you know you can drop your plans for today. When such a storm starts to arise, network defenders will have to start running to investigate how to prevent, detect and respond against the newly discovered threat.  
